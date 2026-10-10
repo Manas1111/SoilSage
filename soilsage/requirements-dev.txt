@@ -1,0 +1,17 @@
+pypdf
+langchain
+langchain-text-splitters
+langchain-community
+chromadb
+sentence-transformers
+rank-bm25
+fastapi
+uvicorn
+streamlit
+scikit-learn
+xgboost
+pandas
+matplotlib
+seaborn
+ragas
+tqdm
